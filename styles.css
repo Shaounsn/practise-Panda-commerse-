@@ -1,0 +1,21 @@
+.bg-info {
+    background-color: red !important;
+}
+
+.panda-bg-warning {
+    background-color: pink;
+
+}
+
+.categories img {
+    width: 100px;
+}
+
+.pnada-btn-warning {
+
+    color: aqua;
+    border: none;
+    border-radius: 5px;
+    background-color: royalblue;
+    padding: 10px;
+}
